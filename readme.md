@@ -1,4 +1,4 @@
-## Chotu
+## Oipc
 
 ### Funtional Requirements
 1. 1:N communication shall be possible.
